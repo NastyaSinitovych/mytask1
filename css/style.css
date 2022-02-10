@@ -13,3 +13,18 @@ justify-content: center;
     width: 285px;
     height: 285px;
 }
+.form1{
+    display: flex;
+}
+.icon{
+    width: 50px;
+}
+.my_container2{
+    font-family:cursive;
+    text-align: center;
+}
+.my_container3{
+    
+    text-align: center;
+    margin-top: 100px;
+}
